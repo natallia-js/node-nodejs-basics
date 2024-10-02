@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import crypto from 'crypto';
 
-function getSha256Hash(path) {
+async function getSha256Hash(path) {
     return new Promise((resolve, reject) => {
         const hash = crypto.createHash('sha256');
         const readStream = fs.createReadStream(path);
