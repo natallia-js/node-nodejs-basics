@@ -27,14 +27,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlreadyBored/node-nodejs-basics.git"
+    "url": "git+https://github.com/natallia-js/node-nodejs-basics.git"
   },
   "keywords": [
     "nodejs",
     "assignments",
-    "alreadybored"
+    "alreadybored",
+    "Natallia Fedartsova"
   ],
-  "author": "alreadybored",
+  "author": "alreadybored + Natallia Fedartsova",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AlreadyBored/node-nodejs-basics/issues"
